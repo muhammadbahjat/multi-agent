@@ -1,3 +1,4 @@
 project-MultiAgent/
 chroma_db/
 __pycache__/
+*.env
